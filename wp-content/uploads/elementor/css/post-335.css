@@ -1,0 +1,16 @@
+.elementor-335 .elementor-element.elementor-element-3964731{--display:flex;--background-transition:0.3s;}.elementor-335 .elementor-element.elementor-element-f7252e9 img{max-width:90%;transition-duration:0s;}.elementor-335 .elementor-element.elementor-element-f7252e9:hover img{opacity:1;}.elementor-335 .elementor-element.elementor-element-739fd95{--display:flex;--background-transition:0.3s;}.elementor-335 .elementor-element.elementor-element-983b960{--spacer-size:50px;}.elementor-335 .elementor-element.elementor-element-c3f8033{--display:flex;--background-transition:0.3s;}.elementor-335 .elementor-element.elementor-element-cd208ad{text-align:center;}.elementor-335 .elementor-element.elementor-element-cd208ad .elementor-heading-title{color:#1C9C9C;font-family:"Avenir LT 95 Black", Sans-serif;font-size:45px;font-weight:800;}.elementor-335 .elementor-element.elementor-element-16e559b{--display:flex;--background-transition:0.3s;}.elementor-335 .elementor-element.elementor-element-9ed3cd1{column-gap:0px;text-align:center;color:var( --e-global-color-text );font-family:"Avenir LT 45 Book", Sans-serif;font-size:21px;font-weight:400;line-height:33px;letter-spacing:1px;text-shadow:0px 0px 1px rgba(0,0,0,0.3);}.elementor-335 .elementor-element.elementor-element-0c22ba2{--display:flex;--background-transition:0.3s;}.elementor-335 .elementor-element.elementor-element-d1b3a28{--divider-border-style:solid;--divider-color:#000;--divider-border-width:1px;}.elementor-335 .elementor-element.elementor-element-d1b3a28 .elementor-divider-separator{width:100%;}.elementor-335 .elementor-element.elementor-element-d1b3a28 .elementor-divider{padding-block-start:15px;padding-block-end:15px;}.elementor-335 .elementor-element.elementor-element-4632b2d{--display:flex;--background-transition:0.3s;}.elementor-335 .elementor-element.elementor-element-c9be055{--display:flex;--min-height:200px;--background-transition:0.3s;--margin-block-start:0px;--margin-block-end:0px;--margin-inline-start:0px;--margin-inline-end:0px;--padding-block-start:0px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-335 .elementor-element.elementor-element-c9be055:not(.elementor-motion-effects-element-type-background), .elementor-335 .elementor-element.elementor-element-c9be055 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-text );}.elementor-335 .elementor-element.elementor-element-c9be055, .elementor-335 .elementor-element.elementor-element-c9be055::before{--border-transition:0.3s;}:root{--page-title-display:none;}@media(max-width:1024px){.elementor-335 .elementor-element.elementor-element-9ed3cd1{column-gap:0px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Avenir LT 95 Black';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('http://localhost/wordpress/wp-content/uploads/2024/03/Avenir-LT-95-Black.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Avenir LT 45 Book';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://localhost/wordpress/wp-content/uploads/2024/03/Avenir-LT-45-Book.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
